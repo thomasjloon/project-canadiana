@@ -1,12 +1,15 @@
+using Unity.Netcode;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : NetworkBehaviour
 {
     public float moveSpeed = 15f;
     public float dodgeDistance = 1.5f;
 
     void Update()
     {
+        if (!IsOwner) return;
+
         MovePlayer();
         HandleDodge();
     }
