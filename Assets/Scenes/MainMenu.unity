@@ -599,7 +599,7 @@ MonoBehaviour:
   NetworkConfig:
     ProtocolVersion: 0
     NetworkTransport: {fileID: 142439184}
-    PlayerPrefab: {fileID: 0}
+    PlayerPrefab: {fileID: 8162561120226268179, guid: 3dd5afc211658924da502fb266d4f7b4, type: 3}
     Prefabs:
       NetworkPrefabsLists:
       - {fileID: 11400000, guid: 03ba51c8d161b4347b0c19d42d029ab1, type: 2}
@@ -2980,9 +2980,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ShowTopMostFoldoutHeaderGroup: 1
   hostButton: {fileID: 890794475}
+  joinButton: {fileID: 1727326483}
   cancelButton: {fileID: 1000346122}
   cancelButton2: {fileID: 16090887}
-  joinButton: {fileID: 1727326483}
   startButton: {fileID: 95733334}
   joinInputField: {fileID: 1012631411}
   codeText: {fileID: 1757281746}
