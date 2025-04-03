@@ -11,18 +11,14 @@ using System.Threading.Tasks;
 
 public class RelayManager : NetworkBehaviour
 {
-    [SerializeField] private Button hostButton;
-    [SerializeField] private Button cancelButton;
-    [SerializeField] private Button cancelButton2;
-    [SerializeField] private Button joinButton;
-    [SerializeField] private Button startButton;
+    [Header("UI Elements")]
+    [SerializeField] private Button hostButton, joinButton, cancelButton, cancelButton2, startButton;
     [SerializeField] private TMP_InputField joinInputField;
-    [SerializeField] private TMP_Text codeText;
-    [SerializeField] private TMP_Text lobbyStatusText;
+    [SerializeField] private TMP_Text codeText, hostStatusText, clientStatusText;
     [SerializeField] private string gameSceneName = "GameScene";
 
-    private NetworkVariable<int> playerCount = new NetworkVariable<int>();
-    private NetworkVariable<bool> lobbyClosed = new NetworkVariable<bool>();
+    private NetworkVariable<int> playerCount = new NetworkVariable<int>(0);
+    private NetworkVariable<bool> lobbyClosed = new NetworkVariable<bool>(false);
 
     private async void Start()
     {
@@ -34,21 +30,10 @@ public class RelayManager : NetworkBehaviour
         NetworkManager.Singleton.OnClientDisconnectCallback += OnClientDisconnected;
     }
 
-    public override void OnDestroy()
-    {
-        base.OnDestroy();
-
-        if (NetworkManager.Singleton != null)
-        {
-            NetworkManager.Singleton.OnClientConnectedCallback -= OnClientConnected;
-            NetworkManager.Singleton.OnClientDisconnectCallback -= OnClientDisconnected;
-        }
-    }
-
     private void SetupButtons()
     {
-        hostButton.onClick.AddListener(CreateRelay);
-        joinButton.onClick.AddListener(() => JoinRelay(joinInputField.text));
+        hostButton.onClick.AddListener(() => { ResetUI(); CreateRelay(); });
+        joinButton.onClick.AddListener(() => { ResetUI(); JoinRelay(joinInputField.text); });
         cancelButton.onClick.AddListener(CancelRelay);
         cancelButton2.onClick.AddListener(CancelRelay);
         startButton.onClick.AddListener(StartGame);
@@ -56,22 +41,19 @@ public class RelayManager : NetworkBehaviour
 
     private void ResetUI()
     {
-        startButton.interactable = true;
-        startButton.gameObject.SetActive(false);
-        lobbyStatusText.text = "";
         codeText.text = "";
+        hostStatusText.text = "";
+        clientStatusText.text = "";
+        startButton.gameObject.SetActive(false);
     }
 
     private async Task InitializeServices()
     {
         if (UnityServices.State != ServicesInitializationState.Initialized)
-        {
             await UnityServices.InitializeAsync();
-        }
+
         if (!AuthenticationService.Instance.IsSignedIn)
-        {
             await AuthenticationService.Instance.SignInAnonymouslyAsync();
-        }
     }
 
     private async void CreateRelay()
@@ -81,15 +63,15 @@ public class RelayManager : NetworkBehaviour
             var allocation = await RelayService.Instance.CreateAllocationAsync(4);
             var joinCode = await RelayService.Instance.GetJoinCodeAsync(allocation.AllocationId);
 
-            var relayData = AllocationUtils.ToRelayServerData(allocation, "dtls");
-            NetworkManager.Singleton.GetComponent<UnityTransport>().SetRelayServerData(relayData);
+            NetworkManager.Singleton.GetComponent<UnityTransport>().SetRelayServerData(AllocationUtils.ToRelayServerData(allocation, "dtls"));
 
             if (NetworkManager.Singleton.StartHost())
             {
                 codeText.text = joinCode;
+                hostStatusText.text = "Players: 1/4";
                 startButton.gameObject.SetActive(true);
-                lobbyStatusText.text = "Players: 1/4";
                 playerCount.Value = 1;
+                lobbyClosed.Value = false;
             }
         }
         catch (RelayServiceException e)
@@ -100,50 +82,55 @@ public class RelayManager : NetworkBehaviour
 
     private async void JoinRelay(string joinCode)
     {
+        if (string.IsNullOrEmpty(joinCode))
+        {
+            clientStatusText.text = "Please enter a code";
+            return;
+        }
+
+        clientStatusText.text = "Connecting...";
+        joinButton.interactable = false;
+
         try
         {
             var joinAllocation = await RelayService.Instance.JoinAllocationAsync(joinCode);
-            var relayData = AllocationUtils.ToRelayServerData(joinAllocation, "dtls");
-            NetworkManager.Singleton.GetComponent<UnityTransport>().SetRelayServerData(relayData);
+            NetworkManager.Singleton.GetComponent<UnityTransport>().SetRelayServerData(AllocationUtils.ToRelayServerData(joinAllocation, "dtls"));
 
             if (NetworkManager.Singleton.StartClient())
-            {
-                lobbyStatusText.text = "Waiting for host to start...";
-            }
+                clientStatusText.text = "Waiting for host...";
         }
-        catch (RelayServiceException e)
+        catch (RelayServiceException)
         {
-            Debug.LogError($"Join relay failed: {e.Message}");
-            lobbyStatusText.text = "Join failed";
+            clientStatusText.text = "Invalid code";
+        }
+        finally
+        {
+            joinButton.interactable = true;
         }
     }
 
     private void OnClientConnected(ulong clientId)
     {
-        if (!IsHost) return;
-        playerCount.Value = NetworkManager.Singleton.ConnectedClients.Count;
-        UpdateLobbyStatus();
+        if (IsHost)
+        {
+            playerCount.Value = NetworkManager.Singleton.ConnectedClients.Count;
+            hostStatusText.text = $"Players: {playerCount.Value}/4";
+        }
     }
 
     private void OnClientDisconnected(ulong clientId)
     {
-        if (!IsHost) return;
-        playerCount.Value = NetworkManager.Singleton.ConnectedClients.Count;
-        UpdateLobbyStatus();
-    }
-
-    private void UpdateLobbyStatus()
-    {
-        if (!IsHost) return;
-        lobbyStatusText.text = $"Players: {playerCount.Value}/4";
+        if (IsHost)
+        {
+            playerCount.Value = NetworkManager.Singleton.ConnectedClients.Count;
+            hostStatusText.text = $"Players: {playerCount.Value}/4";
+        }
     }
 
     private void StartGame()
     {
         if (IsHost)
-        {
             NetworkManager.Singleton.SceneManager.LoadScene(gameSceneName, UnityEngine.SceneManagement.LoadSceneMode.Single);
-        }
     }
 
     public void CancelRelay()
@@ -153,44 +140,45 @@ public class RelayManager : NetworkBehaviour
             lobbyClosed.Value = true;
             NetworkManager.Singleton.Shutdown();
             ResetUI();
-            lobbyStatusText.text = "Lobby closed";
+            hostStatusText.text = "Lobby closed";
         }
         else if (NetworkManager.Singleton.IsClient)
         {
             NetworkManager.Singleton.Shutdown();
             ResetUI();
+            clientStatusText.text = "Host closed lobby";
         }
     }
 
     public override void OnNetworkSpawn()
     {
         base.OnNetworkSpawn();
-        playerCount.OnValueChanged += OnPlayerCountChanged;
         lobbyClosed.OnValueChanged += OnLobbyClosed;
+        playerCount.OnValueChanged += OnPlayerCountChanged;
     }
 
     public override void OnNetworkDespawn()
     {
         base.OnNetworkDespawn();
-        playerCount.OnValueChanged -= OnPlayerCountChanged;
         lobbyClosed.OnValueChanged -= OnLobbyClosed;
-    }
-
-    private void OnPlayerCountChanged(int oldCount, int newCount)
-    {
-        if (!IsHost)
-        {
-            lobbyStatusText.text = "Waiting for host to start...";
-        }
+        playerCount.OnValueChanged -= OnPlayerCountChanged;
     }
 
     private void OnLobbyClosed(bool oldValue, bool newValue)
     {
         if (newValue && !IsHost)
         {
+            clientStatusText.text = "Host closed lobby";
+            joinInputField.text = "";
             NetworkManager.Singleton.Shutdown();
-            lobbyStatusText.text = "Host closed the lobby";
             ResetUI();
         }
+    }
+
+
+    private void OnPlayerCountChanged(int oldCount, int newCount)
+    {
+        if (!IsHost)
+            clientStatusText.text = $"Waiting for host... ({newCount}/4 players)";
     }
 }
