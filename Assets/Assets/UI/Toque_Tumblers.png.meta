@@ -1,0 +1,7865 @@
+fileFormatVersion: 2
+guid: b8a00d50234b6b04bb9cdde5954c1d8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6726061973292568754
+    second: Toque_Tumblers_0
+  - first:
+      213: -5334199122991040771
+    second: Toque_Tumblers_1
+  - first:
+      213: 7149729288937998131
+    second: Toque_Tumblers_2
+  - first:
+      213: -6851460486740367456
+    second: Toque_Tumblers_3
+  - first:
+      213: 6719360752465495063
+    second: Toque_Tumblers_4
+  - first:
+      213: -5185176133843661477
+    second: Toque_Tumblers_5
+  - first:
+      213: 1277426464798955185
+    second: Toque_Tumblers_6
+  - first:
+      213: 5555782656924954537
+    second: Toque_Tumblers_7
+  - first:
+      213: -2927462100545020907
+    second: Toque_Tumblers_8
+  - first:
+      213: 2319156450287197209
+    second: Toque_Tumblers_9
+  - first:
+      213: 4863986358995479070
+    second: Toque_Tumblers_10
+  - first:
+      213: -1982020602480058379
+    second: Toque_Tumblers_11
+  - first:
+      213: 3738812181539378685
+    second: Toque_Tumblers_12
+  - first:
+      213: -8708931882226567998
+    second: Toque_Tumblers_13
+  - first:
+      213: 1033980360633966298
+    second: Toque_Tumblers_14
+  - first:
+      213: -5897636796100311010
+    second: Toque_Tumblers_15
+  - first:
+      213: -7948160620846257551
+    second: Toque_Tumblers_16
+  - first:
+      213: -7029499493453138158
+    second: Toque_Tumblers_17
+  - first:
+      213: 4781067730541832727
+    second: Toque_Tumblers_18
+  - first:
+      213: 5715468209314236906
+    second: Toque_Tumblers_19
+  - first:
+      213: -8636424381857632984
+    second: Toque_Tumblers_20
+  - first:
+      213: 47768058502057374
+    second: Toque_Tumblers_21
+  - first:
+      213: 260150456544406811
+    second: Toque_Tumblers_22
+  - first:
+      213: 5502209391138924707
+    second: Toque_Tumblers_23
+  - first:
+      213: 7177823823598569387
+    second: Toque_Tumblers_24
+  - first:
+      213: 6490555285107591369
+    second: Toque_Tumblers_25
+  - first:
+      213: -885414562159910919
+    second: Toque_Tumblers_26
+  - first:
+      213: 8475753719372336882
+    second: Toque_Tumblers_27
+  - first:
+      213: 3408689473864936630
+    second: Toque_Tumblers_28
+  - first:
+      213: 5683654843987289263
+    second: Toque_Tumblers_29
+  - first:
+      213: 1734297512148665038
+    second: Toque_Tumblers_30
+  - first:
+      213: -2656392241994254381
+    second: Toque_Tumblers_31
+  - first:
+      213: 1713787701817916561
+    second: Toque_Tumblers_32
+  - first:
+      213: 9046354513038864381
+    second: Toque_Tumblers_33
+  - first:
+      213: -3333608820444085041
+    second: Toque_Tumblers_34
+  - first:
+      213: -8575239327659041267
+    second: Toque_Tumblers_35
+  - first:
+      213: 3139126978486910387
+    second: Toque_Tumblers_36
+  - first:
+      213: 6621590288249505081
+    second: Toque_Tumblers_37
+  - first:
+      213: 6281036835142125065
+    second: Toque_Tumblers_38
+  - first:
+      213: -3187802779842156655
+    second: Toque_Tumblers_39
+  - first:
+      213: -8650534220487181224
+    second: Toque_Tumblers_40
+  - first:
+      213: -2596094957453932881
+    second: Toque_Tumblers_41
+  - first:
+      213: 901872075479508638
+    second: Toque_Tumblers_42
+  - first:
+      213: 1316404720836486821
+    second: Toque_Tumblers_43
+  - first:
+      213: -1406810549476628120
+    second: Toque_Tumblers_44
+  - first:
+      213: -3020459904303770288
+    second: Toque_Tumblers_45
+  - first:
+      213: -6201356220302570647
+    second: Toque_Tumblers_46
+  - first:
+      213: 785559205108471643
+    second: Toque_Tumblers_47
+  - first:
+      213: -814768685038223023
+    second: Toque_Tumblers_48
+  - first:
+      213: 3375712330809267371
+    second: Toque_Tumblers_49
+  - first:
+      213: -3506115876805294782
+    second: Toque_Tumblers_50
+  - first:
+      213: 5350305246677719579
+    second: Toque_Tumblers_51
+  - first:
+      213: -4255440862587697320
+    second: Toque_Tumblers_52
+  - first:
+      213: -3531740963616693837
+    second: Toque_Tumblers_53
+  - first:
+      213: -6578556643350078002
+    second: Toque_Tumblers_54
+  - first:
+      213: 3311689474139536722
+    second: Toque_Tumblers_55
+  - first:
+      213: -309930932120157254
+    second: Toque_Tumblers_56
+  - first:
+      213: 6457596917183354180
+    second: Toque_Tumblers_57
+  - first:
+      213: 4953070553237563664
+    second: Toque_Tumblers_58
+  - first:
+      213: 1968063405366443196
+    second: Toque_Tumblers_59
+  - first:
+      213: 6151407665416303459
+    second: Toque_Tumblers_60
+  - first:
+      213: -4091715354446888162
+    second: Toque_Tumblers_61
+  - first:
+      213: -3293767839087573579
+    second: Toque_Tumblers_62
+  - first:
+      213: -6586018289704226659
+    second: Toque_Tumblers_63
+  - first:
+      213: -5568442285018107268
+    second: Toque_Tumblers_64
+  - first:
+      213: 3831029419763114133
+    second: Toque_Tumblers_65
+  - first:
+      213: 6082915278087941651
+    second: Toque_Tumblers_66
+  - first:
+      213: -1110054035640369436
+    second: Toque_Tumblers_67
+  - first:
+      213: 6510521691315309780
+    second: Toque_Tumblers_68
+  - first:
+      213: -5669276568240952680
+    second: Toque_Tumblers_69
+  - first:
+      213: -7105644113652806836
+    second: Toque_Tumblers_70
+  - first:
+      213: 6834898122870547652
+    second: Toque_Tumblers_71
+  - first:
+      213: 8234495986294632625
+    second: Toque_Tumblers_72
+  - first:
+      213: 5670949611755111807
+    second: Toque_Tumblers_73
+  - first:
+      213: 6324647802722465073
+    second: Toque_Tumblers_74
+  - first:
+      213: 4747941783194950270
+    second: Toque_Tumblers_75
+  - first:
+      213: -5539498658864046877
+    second: Toque_Tumblers_76
+  - first:
+      213: 4738753725660487177
+    second: Toque_Tumblers_77
+  - first:
+      213: -6930392500505417591
+    second: Toque_Tumblers_78
+  - first:
+      213: 8647060908473685941
+    second: Toque_Tumblers_79
+  - first:
+      213: -2403097954281400316
+    second: Toque_Tumblers_80
+  - first:
+      213: -3298332777859544587
+    second: Toque_Tumblers_81
+  - first:
+      213: -2623649039474145369
+    second: Toque_Tumblers_82
+  - first:
+      213: -7036118843181597959
+    second: Toque_Tumblers_83
+  - first:
+      213: -2273031945841762788
+    second: Toque_Tumblers_84
+  - first:
+      213: 3086144366033501575
+    second: Toque_Tumblers_85
+  - first:
+      213: 8375057618329452172
+    second: Toque_Tumblers_86
+  - first:
+      213: -3482498212110323706
+    second: Toque_Tumblers_87
+  - first:
+      213: -8538323405058385970
+    second: Toque_Tumblers_88
+  - first:
+      213: -8041565956260387540
+    second: Toque_Tumblers_89
+  - first:
+      213: 6614687653157205709
+    second: Toque_Tumblers_90
+  - first:
+      213: 2951541515572253604
+    second: Toque_Tumblers_91
+  - first:
+      213: -557512688783119097
+    second: Toque_Tumblers_92
+  - first:
+      213: -7315297742592942008
+    second: Toque_Tumblers_93
+  - first:
+      213: 2760916854889653322
+    second: Toque_Tumblers_94
+  - first:
+      213: -5845969815320113011
+    second: Toque_Tumblers_95
+  - first:
+      213: 7049167693559237794
+    second: Toque_Tumblers_96
+  - first:
+      213: -2089644034830020466
+    second: Toque_Tumblers_97
+  - first:
+      213: -3758504434010704619
+    second: Toque_Tumblers_98
+  - first:
+      213: -5814894485881978927
+    second: Toque_Tumblers_99
+  - first:
+      213: -496104370420031156
+    second: Toque_Tumblers_100
+  - first:
+      213: 469129387395088253
+    second: Toque_Tumblers_101
+  - first:
+      213: -7502224890283686231
+    second: Toque_Tumblers_102
+  - first:
+      213: -5794778686536975902
+    second: Toque_Tumblers_103
+  - first:
+      213: 425035135732252600
+    second: Toque_Tumblers_104
+  - first:
+      213: 4483709300397815378
+    second: Toque_Tumblers_105
+  - first:
+      213: 679066423909472543
+    second: Toque_Tumblers_106
+  - first:
+      213: 3550467421757538751
+    second: Toque_Tumblers_107
+  - first:
+      213: -4828156200039925617
+    second: Toque_Tumblers_108
+  - first:
+      213: 3027373512072933407
+    second: Toque_Tumblers_109
+  - first:
+      213: 4606584301810350447
+    second: Toque_Tumblers_110
+  - first:
+      213: -2377843097530302315
+    second: Toque_Tumblers_111
+  - first:
+      213: -7240998145490778475
+    second: Toque_Tumblers_112
+  - first:
+      213: -457162948122712411
+    second: Toque_Tumblers_113
+  - first:
+      213: -2726040673019615122
+    second: Toque_Tumblers_114
+  - first:
+      213: 2327198482548421627
+    second: Toque_Tumblers_115
+  - first:
+      213: 3172521216111556836
+    second: Toque_Tumblers_116
+  - first:
+      213: -7655437106761078070
+    second: Toque_Tumblers_117
+  - first:
+      213: 3344108847082395111
+    second: Toque_Tumblers_118
+  - first:
+      213: 7743616155472753686
+    second: Toque_Tumblers_119
+  - first:
+      213: -5216438922624777266
+    second: Toque_Tumblers_120
+  - first:
+      213: -6723160754140646890
+    second: Toque_Tumblers_121
+  - first:
+      213: 2981453919275282494
+    second: Toque_Tumblers_122
+  - first:
+      213: 8774275207189218002
+    second: Toque_Tumblers_123
+  - first:
+      213: -4135832390850670633
+    second: Toque_Tumblers_124
+  - first:
+      213: 5536807463923472856
+    second: Toque_Tumblers_125
+  - first:
+      213: 8389729561428644245
+    second: Toque_Tumblers_126
+  - first:
+      213: -2735035119616410156
+    second: Toque_Tumblers_127
+  - first:
+      213: -6484975839506002765
+    second: Toque_Tumblers_128
+  - first:
+      213: -6880090170608245966
+    second: Toque_Tumblers_129
+  - first:
+      213: 3148210947972777380
+    second: Toque_Tumblers_130
+  - first:
+      213: -1954302751513726100
+    second: Toque_Tumblers_131
+  - first:
+      213: -7977350511063772865
+    second: Toque_Tumblers_132
+  - first:
+      213: -110235992786347979
+    second: Toque_Tumblers_133
+  - first:
+      213: 4718155790857646753
+    second: Toque_Tumblers_134
+  - first:
+      213: -2309653870905575052
+    second: Toque_Tumblers_135
+  - first:
+      213: -3423525062760139686
+    second: Toque_Tumblers_136
+  - first:
+      213: 1449148418759768334
+    second: Toque_Tumblers_137
+  - first:
+      213: 5728671468299710724
+    second: Toque_Tumblers_138
+  - first:
+      213: -6649571675412768953
+    second: Toque_Tumblers_139
+  - first:
+      213: 1472369211749171606
+    second: Toque_Tumblers_140
+  - first:
+      213: 7366459090199506240
+    second: Toque_Tumblers_141
+  - first:
+      213: 3725721604403059143
+    second: Toque_Tumblers_142
+  - first:
+      213: 7612079375899513376
+    second: Toque_Tumblers_143
+  - first:
+      213: 4165696864230866250
+    second: Toque_Tumblers_144
+  - first:
+      213: -6330541857722989582
+    second: Toque_Tumblers_145
+  - first:
+      213: 5967490995031240047
+    second: Toque_Tumblers_146
+  - first:
+      213: -5342135608659145785
+    second: Toque_Tumblers_147
+  - first:
+      213: 9184170188354491468
+    second: Toque_Tumblers_148
+  - first:
+      213: -7034819289652960445
+    second: Toque_Tumblers_149
+  - first:
+      213: -1894638448218675737
+    second: Toque_Tumblers_150
+  - first:
+      213: -8704324100607517100
+    second: Toque_Tumblers_151
+  - first:
+      213: 3679293886549329646
+    second: Toque_Tumblers_152
+  - first:
+      213: 477801828441601372
+    second: Toque_Tumblers_153
+  - first:
+      213: 8270455068462724809
+    second: Toque_Tumblers_154
+  - first:
+      213: 6616122063921985590
+    second: Toque_Tumblers_155
+  - first:
+      213: 2785497798514637058
+    second: Toque_Tumblers_156
+  - first:
+      213: -4090032430931305480
+    second: Toque_Tumblers_157
+  - first:
+      213: -2948422203752264506
+    second: Toque_Tumblers_158
+  - first:
+      213: -4960071327808152913
+    second: Toque_Tumblers_159
+  - first:
+      213: -4363464732872028006
+    second: Toque_Tumblers_160
+  - first:
+      213: 8231235363568136207
+    second: Toque_Tumblers_161
+  - first:
+      213: -2376963532017904669
+    second: Toque_Tumblers_162
+  - first:
+      213: -5962521270641955777
+    second: Toque_Tumblers_163
+  - first:
+      213: -3634133435110043803
+    second: Toque_Tumblers_164
+  - first:
+      213: -8207037865732949028
+    second: Toque_Tumblers_165
+  - first:
+      213: -2693331556391531422
+    second: Toque_Tumblers_166
+  - first:
+      213: 8182522147416925451
+    second: Toque_Tumblers_167
+  - first:
+      213: -6083297558940351738
+    second: Toque_Tumblers_168
+  - first:
+      213: 3770671496487791222
+    second: Toque_Tumblers_169
+  - first:
+      213: 3019077809667568639
+    second: Toque_Tumblers_170
+  - first:
+      213: -6069410079290372353
+    second: Toque_Tumblers_171
+  - first:
+      213: -963963726873317328
+    second: Toque_Tumblers_172
+  - first:
+      213: -9109554469310727009
+    second: Toque_Tumblers_173
+  - first:
+      213: -5440267738853014234
+    second: Toque_Tumblers_174
+  - first:
+      213: -6859135194632453788
+    second: Toque_Tumblers_175
+  - first:
+      213: -8692092108444359016
+    second: Toque_Tumblers_176
+  - first:
+      213: 1048465011844746497
+    second: Toque_Tumblers_177
+  - first:
+      213: 2029693560270130086
+    second: Toque_Tumblers_178
+  - first:
+      213: 6157362351614754534
+    second: Toque_Tumblers_179
+  - first:
+      213: 108227544074643320
+    second: Toque_Tumblers_180
+  - first:
+      213: -3268065570853658188
+    second: Toque_Tumblers_181
+  - first:
+      213: 8841133282461648386
+    second: Toque_Tumblers_182
+  - first:
+      213: -6396318051113874084
+    second: Toque_Tumblers_183
+  - first:
+      213: 3321910128754653475
+    second: Toque_Tumblers_184
+  - first:
+      213: -7028801226445605343
+    second: Toque_Tumblers_185
+  - first:
+      213: -3833563410299081695
+    second: Toque_Tumblers_186
+  - first:
+      213: 1640398427338769519
+    second: Toque_Tumblers_187
+  - first:
+      213: 9183820465368580460
+    second: Toque_Tumblers_188
+  - first:
+      213: -3830723007459937401
+    second: Toque_Tumblers_189
+  - first:
+      213: 2973857097153384165
+    second: Toque_Tumblers_190
+  - first:
+      213: 5335088607000422693
+    second: Toque_Tumblers_191
+  - first:
+      213: -320210839283448713
+    second: Toque_Tumblers_192
+  - first:
+      213: -2356602242953345655
+    second: Toque_Tumblers_193
+  - first:
+      213: -1626082296780503409
+    second: Toque_Tumblers_194
+  - first:
+      213: -8470808101641479684
+    second: Toque_Tumblers_195
+  - first:
+      213: -9085301776139588819
+    second: Toque_Tumblers_196
+  - first:
+      213: 8732630889615954536
+    second: Toque_Tumblers_197
+  - first:
+      213: 5364988699341580386
+    second: Toque_Tumblers_198
+  - first:
+      213: -8856344753098903721
+    second: Toque_Tumblers_199
+  - first:
+      213: 7774225951606402589
+    second: Toque_Tumblers_200
+  - first:
+      213: -6726655218138565568
+    second: Toque_Tumblers_201
+  - first:
+      213: -4780655802659198182
+    second: Toque_Tumblers_202
+  - first:
+      213: -6896517040529379266
+    second: Toque_Tumblers_203
+  - first:
+      213: -540839698531013785
+    second: Toque_Tumblers_204
+  - first:
+      213: -3776973426182516835
+    second: Toque_Tumblers_205
+  - first:
+      213: -8837393169186220489
+    second: Toque_Tumblers_206
+  - first:
+      213: 696591426607962741
+    second: Toque_Tumblers_207
+  - first:
+      213: 6385743671680947659
+    second: Toque_Tumblers_208
+  - first:
+      213: 5068150211671781121
+    second: Toque_Tumblers_209
+  - first:
+      213: 3926875465388747399
+    second: Toque_Tumblers_210
+  - first:
+      213: 7856485661758236437
+    second: Toque_Tumblers_211
+  - first:
+      213: -8280799016904694777
+    second: Toque_Tumblers_212
+  - first:
+      213: 387523607518501221
+    second: Toque_Tumblers_213
+  - first:
+      213: 664795619254250999
+    second: Toque_Tumblers_214
+  - first:
+      213: 8200497469237643567
+    second: Toque_Tumblers_215
+  - first:
+      213: 5267832963094171030
+    second: Toque_Tumblers_216
+  - first:
+      213: 4455816939861845080
+    second: Toque_Tumblers_217
+  - first:
+      213: 3090445869661261908
+    second: Toque_Tumblers_218
+  - first:
+      213: 8483295858930631925
+    second: Toque_Tumblers_219
+  - first:
+      213: -8820023057003798654
+    second: Toque_Tumblers_220
+  - first:
+      213: -2556805443837110559
+    second: Toque_Tumblers_221
+  - first:
+      213: 1507678034054901677
+    second: Toque_Tumblers_222
+  - first:
+      213: 8154347629514009777
+    second: Toque_Tumblers_223
+  - first:
+      213: 635171505918819374
+    second: Toque_Tumblers_224
+  - first:
+      213: -8062878325246587273
+    second: Toque_Tumblers_225
+  - first:
+      213: -3584639292809361868
+    second: Toque_Tumblers_226
+  - first:
+      213: 7383140226671171091
+    second: Toque_Tumblers_227
+  - first:
+      213: -5210467812650105845
+    second: Toque_Tumblers_228
+  - first:
+      213: -5981630797160223721
+    second: Toque_Tumblers_229
+  - first:
+      213: 3627158365136870117
+    second: Toque_Tumblers_230
+  - first:
+      213: -9191431461581820800
+    second: Toque_Tumblers_231
+  - first:
+      213: -907993461277855057
+    second: Toque_Tumblers_232
+  - first:
+      213: 5856444134584806516
+    second: Toque_Tumblers_233
+  - first:
+      213: -8142277286113167628
+    second: Toque_Tumblers_234
+  - first:
+      213: 5375182892039014368
+    second: Toque_Tumblers_235
+  - first:
+      213: -8345589007062168248
+    second: Toque_Tumblers_236
+  - first:
+      213: -4921527132582061548
+    second: Toque_Tumblers_237
+  - first:
+      213: -5892725519438708130
+    second: Toque_Tumblers_238
+  - first:
+      213: 6640385637733244985
+    second: Toque_Tumblers_239
+  - first:
+      213: -3955517342402781321
+    second: Toque_Tumblers_240
+  - first:
+      213: -1855237429002698876
+    second: Toque_Tumblers_241
+  - first:
+      213: -2761660417673854201
+    second: Toque_Tumblers_242
+  - first:
+      213: 632405230378975050
+    second: Toque_Tumblers_243
+  - first:
+      213: -1150746766358162521
+    second: Toque_Tumblers_244
+  - first:
+      213: -7660524024330220840
+    second: Toque_Tumblers_245
+  - first:
+      213: 6560758162302399224
+    second: Toque_Tumblers_246
+  - first:
+      213: 4616093007644506304
+    second: Toque_Tumblers_247
+  - first:
+      213: -8452067275577052347
+    second: Toque_Tumblers_248
+  - first:
+      213: 146971047139972377
+    second: Toque_Tumblers_249
+  - first:
+      213: -187237487177936788
+    second: Toque_Tumblers_250
+  - first:
+      213: -5062488431595764230
+    second: Toque_Tumblers_251
+  - first:
+      213: 4168983579995346576
+    second: Toque_Tumblers_252
+  - first:
+      213: 5221699340629431970
+    second: Toque_Tumblers_253
+  - first:
+      213: 2754334897415426577
+    second: Toque_Tumblers_254
+  - first:
+      213: 5279337117176401000
+    second: Toque_Tumblers_255
+  - first:
+      213: 7200427806817548974
+    second: Toque_Tumblers_256
+  - first:
+      213: -944543422367477674
+    second: Toque_Tumblers_257
+  - first:
+      213: 9221168053039493086
+    second: Toque_Tumblers_258
+  - first:
+      213: 3386846619999916721
+    second: Toque_Tumblers_259
+  - first:
+      213: -7344816956175061
+    second: Toque_Tumblers_260
+  - first:
+      213: -7661592347581884794
+    second: Toque_Tumblers_261
+  - first:
+      213: -541457814249773006
+    second: Toque_Tumblers_262
+  - first:
+      213: 6034427794991833692
+    second: Toque_Tumblers_263
+  - first:
+      213: 4887012636016691881
+    second: Toque_Tumblers_264
+  - first:
+      213: 543193969907884490
+    second: Toque_Tumblers_265
+  - first:
+      213: 6806908487476410193
+    second: Toque_Tumblers_266
+  - first:
+      213: -2969581293432381938
+    second: Toque_Tumblers_267
+  - first:
+      213: 4074951342681623644
+    second: Toque_Tumblers_268
+  - first:
+      213: -5536550961091604277
+    second: Toque_Tumblers_269
+  - first:
+      213: 3675821397067798661
+    second: Toque_Tumblers_270
+  - first:
+      213: -972971562297730656
+    second: Toque_Tumblers_271
+  - first:
+      213: -3723162149994210626
+    second: Toque_Tumblers_272
+  - first:
+      213: 9086932783844486220
+    second: Toque_Tumblers_273
+  - first:
+      213: 4716884847447602463
+    second: Toque_Tumblers_274
+  - first:
+      213: -7424437997127214826
+    second: Toque_Tumblers_275
+  - first:
+      213: 7539335296413976556
+    second: Toque_Tumblers_276
+  - first:
+      213: -2299624844921032528
+    second: Toque_Tumblers_277
+  - first:
+      213: 7753198989621360963
+    second: Toque_Tumblers_278
+  - first:
+      213: -4930852004315513556
+    second: Toque_Tumblers_279
+  - first:
+      213: 6714882068220189330
+    second: Toque_Tumblers_280
+  - first:
+      213: -4413060917144752650
+    second: Toque_Tumblers_281
+  - first:
+      213: -8962332297806881811
+    second: Toque_Tumblers_282
+  - first:
+      213: -7243316749303793442
+    second: Toque_Tumblers_283
+  - first:
+      213: 9181160548756927964
+    second: Toque_Tumblers_284
+  - first:
+      213: -664297848791703741
+    second: Toque_Tumblers_285
+  - first:
+      213: 2465530065744766085
+    second: Toque_Tumblers_286
+  - first:
+      213: -4406817926841206423
+    second: Toque_Tumblers_287
+  - first:
+      213: -8517540889425882348
+    second: Toque_Tumblers_288
+  - first:
+      213: -6133709363423006599
+    second: Toque_Tumblers_289
+  - first:
+      213: 2568987720696698102
+    second: Toque_Tumblers_290
+  - first:
+      213: -6809140217825074301
+    second: Toque_Tumblers_291
+  - first:
+      213: -2126532969071470411
+    second: Toque_Tumblers_292
+  - first:
+      213: -6406947528874403527
+    second: Toque_Tumblers_293
+  - first:
+      213: -3155862544422197031
+    second: Toque_Tumblers_294
+  - first:
+      213: -500370015411296401
+    second: Toque_Tumblers_295
+  - first:
+      213: -99197771628340426
+    second: Toque_Tumblers_296
+  - first:
+      213: -970226382080491603
+    second: Toque_Tumblers_297
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Toque_Tumblers_0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 801
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f22a0854a38a2a0800000000000000
+      internalID: -6726061973292568754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 91
+        width: 1219
+        height: 695
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df63be0d82e19f5b0800000000000000
+      internalID: -5334199122991040771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 774
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3370b5b48e0f83360800000000000000
+      internalID: 7149729288937998131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 765
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a72737ecf8bae0a0800000000000000
+      internalID: -6851460486740367456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 626
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7144860f007ff3d50800000000000000
+      internalID: 6719360752465495063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_5
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 634
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4a6c47cd8a08b0800000000000000
+      internalID: -5185176133843661477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_6
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 599
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b656050a945ab110800000000000000
+      internalID: 1277426464798955185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 614
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afa94304ea1a1d40800000000000000
+      internalID: 5555782656924954537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 596
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c589bdab09f57d0800000000000000
+      internalID: -2927462100545020907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 582
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c9ced018c4f2020800000000000000
+      internalID: 2319156450287197209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 576
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6540b2d9508340800000000000000
+      internalID: 4863986358995479070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 585
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff9ba363c27e74e0800000000000000
+      internalID: -1982020602480058379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 558
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5de8abedde2e330800000000000000
+      internalID: 3738812181539378685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 562
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4bfc25898a32780800000000000000
+      internalID: -8708931882226567998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 550
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade5154e8af695e00800000000000000
+      internalID: 1033980360633966298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 545
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180b2ab492672ea0800000000000000
+      internalID: -5897636796100311010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 547
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ae5b8c60672b190800000000000000
+      internalID: -7948160620846257551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_17
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 541
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217ffef5473327e90800000000000000
+      internalID: -7029499493453138158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_18
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 544
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a670e05c3c95240800000000000000
+      internalID: 4781067730541832727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 534
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae98635fd0c615f40800000000000000
+      internalID: 5715468209314236906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 524
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d6add48c1452880800000000000000
+      internalID: -8636424381857632984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_21
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d00aecbc4b9a000800000000000000
+      internalID: 47768058502057374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 532
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2c7e367d3c9300800000000000000
+      internalID: 260150456544406811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 535
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a867ae0a46cb5c40800000000000000
+      internalID: 5502209391138924707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 521
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7cde1ecb0cc9360800000000000000
+      internalID: 7177823823598569387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 526
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c84fd3b4a5131a50800000000000000
+      internalID: 6490555285107591369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_26
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 496
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff1087952066b3f0800000000000000
+      internalID: -885414562159910919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 511
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe42eee91def9570800000000000000
+      internalID: 8475753719372336882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 505
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc255734091e4f20800000000000000
+      internalID: 3408689473864936630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_29
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 507
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46ac1a7f560ee40800000000000000
+      internalID: 5683654843987289263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 499
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2077a0666711810800000000000000
+      internalID: 1734297512148665038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 494
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d734df7459922bd0800000000000000
+      internalID: -2656392241994254381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_32
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 490
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c3a43b5d898c710800000000000000
+      internalID: 1713787701817916561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 480
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffeeedff7b1b8d70800000000000000
+      internalID: 9046354513038864381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 466
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc44255a074acb1d0800000000000000
+      internalID: -3333608820444085041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_35
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 481
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e5cead341aef880800000000000000
+      internalID: -8575239327659041267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdbe89ea5b609b20800000000000000
+      internalID: 3139126978486910387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 456
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935c943d84d94eb50800000000000000
+      internalID: 6621590288249505081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_38
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 463
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9064ac329b9ba2750800000000000000
+      internalID: 6281036835142125065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_39
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 463
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197618de246a2c3d0800000000000000
+      internalID: -3187802779842156655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_40
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 444
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c308e75f023f780800000000000000
+      internalID: -8650534220487181224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_41
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 450
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa686c11461d8fbd0800000000000000
+      internalID: -2596094957453932881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_42
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 429
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96ecc3dfd7148c00800000000000000
+      internalID: 901872075479508638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 429
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a62b167e1fc44210800000000000000
+      internalID: 1316404720836486821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_44
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 431
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8696c2442410a7ce0800000000000000
+      internalID: -1406810549476628120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_45
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 435
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055d9a958bb2516d0800000000000000
+      internalID: -3020459904303770288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_46
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 412
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bc433bf5b50f9a0800000000000000
+      internalID: -6201356220302570647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_47
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 422
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57578a5fedd6ea00800000000000000
+      internalID: 785559205108471643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_48
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 404
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1514f22a23c51b4f0800000000000000
+      internalID: -814768685038223023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_49
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 421
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4dac5ca70f8de20800000000000000
+      internalID: 3375712330809267371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_50
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 423
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245c9adaf26c75fc0800000000000000
+      internalID: -3506115876805294782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 403
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a5224564a104a40800000000000000
+      internalID: 5350305246677719579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_52
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85747cee413a1f4c0800000000000000
+      internalID: -4255440862587697320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_53
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 406
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16ee83e4cbcfec0800000000000000
+      internalID: -3531740963616693837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_54
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 406
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd155a669544b4a0800000000000000
+      internalID: -6578556643350078002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_55
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 401
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dbc78d70c75fd20800000000000000
+      internalID: 3311689474139536722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_56
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 415
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab382169577e2bbf0800000000000000
+      internalID: -309930932120157254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_57
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 397
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4451f5fae2efd9950800000000000000
+      internalID: 6457596917183354180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 373
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192c29fc67dcb440800000000000000
+      internalID: 4953070553237563664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_59
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 382
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcff4c6d37ff4b10800000000000000
+      internalID: 1968063405366443196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_60
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363f0cd1ea03e5550800000000000000
+      internalID: 6151407665416303459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 380
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e138e20609e4737c0800000000000000
+      internalID: -4091715354446888162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_62
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 366
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5449af99f2a42d0800000000000000
+      internalID: -3293767839087573579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_63
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 377
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9034fd7243c994a0800000000000000
+      internalID: -6586018289704226659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_64
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 378
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c723b31ae3be8b2b0800000000000000
+      internalID: -5568442285018107268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_65
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 384
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902d09a5fc8a2530800000000000000
+      internalID: 3831029419763114133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_66
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 379
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e6a3d773bda6450800000000000000
+      internalID: 6082915278087941651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_67
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 383
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeba246cbb4890f0800000000000000
+      internalID: -1110054035640369436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 375
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc0359ebf40a5a50800000000000000
+      internalID: 6510521691315309780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_69
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 368
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a6d809ffea251b0800000000000000
+      internalID: -5669276568240952680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_70
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 372
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b0161735ea36d90800000000000000
+      internalID: -7105644113652806836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_71
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4eea141af6ade50800000000000000
+      internalID: 6834898122870547652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_72
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 371
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0b877a87ec64270800000000000000
+      internalID: 8234495986294632625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_73
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 364
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f758dcb30a243be40800000000000000
+      internalID: 5670949611755111807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_74
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 360
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1353abacaa9a5c750800000000000000
+      internalID: 6324647802722465073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_75
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 355
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ad19965e314e140800000000000000
+      internalID: 4747941783194950270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 344
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecd7acb15fbf13b0800000000000000
+      internalID: -5539498658864046877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_77
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 351
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e5d00186f63c140800000000000000
+      internalID: 4738753725660487177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_78
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 337
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988e7555dbc42df90800000000000000
+      internalID: -6930392500505417591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_79
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 352
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79db80518800870800000000000000
+      internalID: 8647060908473685941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_80
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 348
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408d69a842b76aed0800000000000000
+      internalID: -2403097954281400316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_81
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 345
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f987a850d7f932d0800000000000000
+      internalID: -3298332777859544587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_82
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 330
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a749da691de69bd0800000000000000
+      internalID: -2623649039474145369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_83
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 354
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa7abae03faa5e90800000000000000
+      internalID: -7036118843181597959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_84
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 348
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e9cf00d719470e0800000000000000
+      internalID: -2273031945841762788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_85
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 350
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dfff623ff24da20800000000000000
+      internalID: 3086144366033501575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_86
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 344
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb4f9e78e2a3470800000000000000
+      internalID: 8375057618329452172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6003b30c35eabafc0800000000000000
+      internalID: -3482498212110323706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_88
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec75710e918c18980800000000000000
+      internalID: -8538323405058385970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_89
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 334
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a93b6e5e966090800000000000000
+      internalID: -8041565956260387540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_90
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6f89adf571ccb50800000000000000
+      internalID: 6614687653157205709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_91
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 335
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a39087de5bf5f820800000000000000
+      internalID: 2951541515572253604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_92
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 339
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d2f43d9215348f0800000000000000
+      internalID: -557512688783119097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_93
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 336
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e7821677da7a90800000000000000
+      internalID: -7315297742592942008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_94
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 335
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a442616604fb05620800000000000000
+      internalID: 2760916854889653322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_95
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 319
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80503e1d61fedea0800000000000000
+      internalID: -5845969815320113011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 323
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac02c05baca3d160800000000000000
+      internalID: 7049167693559237794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_97
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 317
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8051fc52d71003e0800000000000000
+      internalID: -2089644034830020466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_98
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 325
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515bf04712c17dbc0800000000000000
+      internalID: -3758504434010704619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_99
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 314
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df70a216485d4fa0800000000000000
+      internalID: -5814894485881978927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_100
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 321
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41689d14bb7d19f0800000000000000
+      internalID: -496104370420031156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_101
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 316
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f716931bea28600800000000000000
+      internalID: 469129387395088253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_102
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 318
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a60c85f53eb2e790800000000000000
+      internalID: -7502224890283686231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 300
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e975f49c7fc49fa0800000000000000
+      internalID: -5794778686536975902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_104
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 307
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf716a343706e500800000000000000
+      internalID: 425035135732252600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_105
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 297
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b35e5ad5593e30800000000000000
+      internalID: 4483709300397815378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_106
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 293
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19d40090578c6900800000000000000
+      internalID: 679066423909472543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_107
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 300
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb184741f4bc54130800000000000000
+      internalID: 3550467421757538751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_108
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 301
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8835884481fefcb0800000000000000
+      internalID: -4828156200039925617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_109
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 299
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10b8856b24630a20800000000000000
+      internalID: 3027373512072933407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_110
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 298
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69fb490400edef30800000000000000
+      internalID: 4606584301810350447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 294
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59087181d44300fd0800000000000000
+      internalID: -2377843097530302315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_112
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 288
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59682c61d8ec28b90800000000000000
+      internalID: -7240998145490778475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_113
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6eca888b4d7a9f0800000000000000
+      internalID: -457162948122712411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68266973782b2ad0800000000000000
+      internalID: -2726040673019615122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_115
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3702a90bedb4020800000000000000
+      internalID: 2327198482548421627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_116
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 272
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e838b0cc3f070c20800000000000000
+      internalID: 3172521216111556836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_117
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 289
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca692bf28c62c590800000000000000
+      internalID: -7655437106761078070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_118
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 281
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e556905749a86e20800000000000000
+      internalID: 3344108847082395111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_119
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 287
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614fdefadd9d67b60800000000000000
+      internalID: 7743616155472753686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 268
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3cd60107c7b97b0800000000000000
+      internalID: -5216438922624777266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_121
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 276
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61279993ae882b2a0800000000000000
+      internalID: -6723160754140646890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_122
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 279
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30799c0b80406920800000000000000
+      internalID: 2981453919275282494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_123
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2c70610dc74c970800000000000000
+      internalID: 8774275207189218002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_124
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8ac46a529a96c0800000000000000
+      internalID: -4135832390850670633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_125
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9d3ec9d01b6dc40800000000000000
+      internalID: 5536807463923472856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_126
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 265
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5915c8ed59e4e6470800000000000000
+      internalID: 8389729561428644245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_127
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 264
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddbb0fac043b0ad0800000000000000
+      internalID: -2735035119616410156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_128
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 268
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc014535dcb006a0800000000000000
+      internalID: -6484975839506002765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_129
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 272
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2332d3e21720580a0800000000000000
+      internalID: -6880090170608245966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_130
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 252
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5c9ef5d21b0bb20800000000000000
+      internalID: 3148210947972777380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_131
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b478700ce0e4e0800000000000000
+      internalID: -1954302751513726100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_132
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31534bd9f1ca4190800000000000000
+      internalID: -7977350511063772865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_133
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d188d2fc587ef0800000000000000
+      internalID: -110235992786347979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_134
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 255
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2b505a1b14a7140800000000000000
+      internalID: 4718155790857646753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_135
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 243
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479319e9a0672ffd0800000000000000
+      internalID: -2309653870905575052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_136
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 254
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54f88218123d70d0800000000000000
+      internalID: -3423525062760139686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_137
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 253
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09bef61fc86c1410800000000000000
+      internalID: 1449148418759768334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_138
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 232
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4017bee3954508f40800000000000000
+      internalID: 5728671468299710724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_139
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747d58acac9f7b3a0800000000000000
+      internalID: -6649571675412768953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_140
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 234
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69108844ff7ee6410800000000000000
+      internalID: 1472369211749171606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_141
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de9cb638bea3660800000000000000
+      internalID: 7366459090199506240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_142
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9517a3f0c64b330800000000000000
+      internalID: 3725721604403059143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_143
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0225192acd983a960800000000000000
+      internalID: 7612079375899513376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_144
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 229
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d707a2a378fc930800000000000000
+      internalID: 4165696864230866250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_145
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 235
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f30ea698b56528a0800000000000000
+      internalID: -6330541857722989582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_146
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 232
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ded2f5179c0d250800000000000000
+      internalID: 5967490995031240047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 217
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb08efb7fbecd5b0800000000000000
+      internalID: -5342135608659145785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_148
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 225
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c441a91602ab47f70800000000000000
+      internalID: 9184170188354491468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_149
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3436b2dc02d4f5e90800000000000000
+      internalID: -7034819289652960445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_150
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 214
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5e02c9e54e4b5e0800000000000000
+      internalID: -1894638448218675737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_151
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 216
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45eda651957043780800000000000000
+      internalID: -8704324100607517100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_152
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee60a0ccb4a7f0330800000000000000
+      internalID: 3679293886549329646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_153
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c553b414b3e71a600800000000000000
+      internalID: 477801828441601372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_154
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 201
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6bc86e01f86c270800000000000000
+      internalID: 8270455068462724809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_155
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 204
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638b1b2a6ff21db50800000000000000
+      internalID: 6616122063921985590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_156
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 205
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209f8135d7318a620800000000000000
+      internalID: 2785497798514637058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_157
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 193
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb138a8c294d37c0800000000000000
+      internalID: -4090032430931305480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_158
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 191
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccc87980a91517d0800000000000000
+      internalID: -2948422203752264506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_159
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 149
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa156d28694a2bb0800000000000000
+      internalID: -4960071327808152913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_160
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 197
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90d73fa1fbd173c0800000000000000
+      internalID: -4363464732872028006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_161
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 183
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00bc14c3f83b3270800000000000000
+      internalID: 8231235363568136207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_162
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 148
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d306e244530fd0800000000000000
+      internalID: -2376963532017904669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_163
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 151
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ceca1ce7ed04da0800000000000000
+      internalID: -5962521270641955777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_164
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 147
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f45ed25e6f09dc0800000000000000
+      internalID: -3634133435110043803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_165
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 148
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbeca3b8eba1e80800000000000000
+      internalID: -8207037865732949028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_166
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 154
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ccee6283d5f9ad0800000000000000
+      internalID: -2693331556391531422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_167
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 148
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b056d8b4a882e8170800000000000000
+      internalID: 8182522147416925451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_168
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 140
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6030c50d919c39ba0800000000000000
+      internalID: -6083297558940351738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_169
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 147
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a68d88fbd145430800000000000000
+      internalID: 3770671496487791222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_170
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 146
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3ff7aa54be5e920800000000000000
+      internalID: 3019077809667568639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_171
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 153
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffec8b3a0bf15cba0800000000000000
+      internalID: -6069410079290372353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_172
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ba5309105f92f0800000000000000
+      internalID: -963963726873317328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_173
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 140
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c79a2897c549180800000000000000
+      internalID: -9109554469310727009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_174
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 154
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62506a6b0594084b0800000000000000
+      internalID: -5440267738853014234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_175
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 141
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4618d89b1e47fc0a0800000000000000
+      internalID: -6859135194632453788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_176
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 152
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896a231b74c7f5780800000000000000
+      internalID: -8692092108444359016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_177
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 149
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d8e6e8f55ec8e00800000000000000
+      internalID: 1048465011844746497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_178
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 154
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab8cce0a8bea2c10800000000000000
+      internalID: 2029693560270130086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_179
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 149
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee7c598f68537550800000000000000
+      internalID: 6157362351614754534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_180
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 144
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8776b7fb060808100800000000000000
+      internalID: 108227544074643320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_181
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 151
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b16592adaf75a2d0800000000000000
+      internalID: -3268065570853658188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_182
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 146
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2068209c0e302ba70800000000000000
+      internalID: 8841133282461648386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_183
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 146
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d40f42f96bb37a0800000000000000
+      internalID: -6396318051113874084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_184
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329713079abc91e20800000000000000
+      internalID: 3321910128754653475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_185
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 143
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12631e4568ea47e90800000000000000
+      internalID: -7028801226445605343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_186
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 154
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c2031b3627ccac0800000000000000
+      internalID: -3833563410299081695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_187
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 152
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6403afadadd3c610800000000000000
+      internalID: 1640398427338769519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_188
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 145
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61c1472e0c737f70800000000000000
+      internalID: 9183820465368580460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_189
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 152
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7833f6388b986dac0800000000000000
+      internalID: -3830723007459937401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_190
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 154
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee0a901643454920800000000000000
+      internalID: 2973857097153384165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_191
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 151
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5296e7152da0a0a40800000000000000
+      internalID: 5335088607000422693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_192
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 148
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c74f20f16e8bf0800000000000000
+      internalID: -320210839283448713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_193
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 152
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98580efeebaab4fd0800000000000000
+      internalID: -2356602242953345655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_194
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 148
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c8d434cefe69e0800000000000000
+      internalID: -1626082296780503409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_195
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 146
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9982d69e4a17a80800000000000000
+      internalID: -8470808101641479684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_196
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 152
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b69fbab268ae180800000000000000
+      internalID: -9085301776139588819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_197
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8629922d689803970800000000000000
+      internalID: 8732630889615954536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_198
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 148
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2686d301cc4447a40800000000000000
+      internalID: 5364988699341580386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_199
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 152
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f2527be51f71580800000000000000
+      internalID: -8856344753098903721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_200
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 146
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e6f19305993eb60800000000000000
+      internalID: 7774225951606402589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_201
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 150
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044b25ce7be16a2a0800000000000000
+      internalID: -6726655218138565568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_202
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 150
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ba61160e2b7adb0800000000000000
+      internalID: -4780655802659198182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_203
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 142
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3071db7a46aa40a0800000000000000
+      internalID: -6896517040529379266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_204
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b21a0e82d8e78f0800000000000000
+      internalID: -540839698531013785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_205
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 154
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f0d4e1eae759bc0800000000000000
+      internalID: -3776973426182516835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_206
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73611323cb54b5580800000000000000
+      internalID: -8837393169186220489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_207
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 143
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57adc88363acaa900800000000000000
+      internalID: 696591426607962741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_208
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 140
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5dd394908be9850800000000000000
+      internalID: 6385743671680947659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_209
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 140
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f640be3cfa55640800000000000000
+      internalID: 5068150211671781121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_210
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 138
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a61b72e601f7630800000000000000
+      internalID: 3926875465388747399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_211
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 138
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517ac0c7518d70d60800000000000000
+      internalID: 7856485661758236437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_212
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 138
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704edfcea21b41d80800000000000000
+      internalID: -8280799016904694777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_213
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 134
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569d738faa2c06500800000000000000
+      internalID: 387523607518501221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_214
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 140
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fda2ede714d93900800000000000000
+      internalID: 664795619254250999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_215
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29466b00050ec170800000000000000
+      internalID: 8200497469237643567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_216
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 139
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d42557b2a1b1940800000000000000
+      internalID: 5267832963094171030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_217
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85422ac16ed36dd30800000000000000
+      internalID: 4455816939861845080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_218
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 140
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4509bb2052873ea20800000000000000
+      internalID: 3090445869661261908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_219
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 141
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f44a1423a8bab570800000000000000
+      internalID: 8483295858930631925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_220
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 141
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f988892cbf89580800000000000000
+      internalID: -8820023057003798654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_221
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 139
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6dd40def6648cd0800000000000000
+      internalID: -2556805443837110559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_222
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 138
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf60871f295ce410800000000000000
+      internalID: 1507678034054901677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_223
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 147
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc2b3827ff0a2170800000000000000
+      internalID: 8154347629514009777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_224
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 137
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cbdbd8e1590d800800000000000000
+      internalID: 635171505918819374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_225
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 138
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e0b74d1e6ea1090800000000000000
+      internalID: -8062878325246587273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_226
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 133
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436c0303e8dc04ec0800000000000000
+      internalID: -3584639292809361868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_227
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316d1a92bee267660800000000000000
+      internalID: 7383140226671171091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_228
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0442617123b0b7b0800000000000000
+      internalID: -5210467812650105845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_229
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c6ab56b7afcfca0800000000000000
+      internalID: -5981630797160223721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_230
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ead11ac051465230800000000000000
+      internalID: 3627158365136870117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_231
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 131
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ce013b8c9717080800000000000000
+      internalID: -9191431461581820800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_232
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2f72af1c82663f0800000000000000
+      internalID: -907993461277855057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_233
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 134
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ce8d069e4464150800000000000000
+      internalID: 5856444134584806516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_234
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 133
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f63e7aa2f1d00f80800000000000000
+      internalID: -8142277286113167628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_235
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 128
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e70eb28c5c789a40800000000000000
+      internalID: 5375182892039014368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_236
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 129
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d87a0d3038e2c80800000000000000
+      internalID: -8345589007062168248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_237
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 138
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41adff5f52933bbb0800000000000000
+      internalID: -4921527132582061548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_238
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 126
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e520afe6c55d83ea0800000000000000
+      internalID: -5892725519438708130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_239
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 132
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93022b42e83672c50800000000000000
+      internalID: 6640385637733244985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_240
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 135
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f5f2f2fed2b19c0800000000000000
+      internalID: -3955517342402781321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_241
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 125
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ff846436fd046e0800000000000000
+      internalID: -1855237429002698876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_242
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 133
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7030b466b7c9ca9d0800000000000000
+      internalID: -2761660417673854201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_243
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 131
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f76d6d431c6c800800000000000000
+      internalID: 632405230378975050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_244
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 132
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3dac4b9e9b700f0800000000000000
+      internalID: -1150746766358162521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_245
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da8370bcf950b590800000000000000
+      internalID: -7660524024330220840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_246
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 135
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f27749c9ce7c0b50800000000000000
+      internalID: 6560758162302399224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_247
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 126
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8b0d22228af0040800000000000000
+      internalID: 4616093007644506304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_248
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543b685089934ba80800000000000000
+      internalID: -8452067275577052347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_249
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 131
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9159b0183652a0200800000000000000
+      internalID: 146971047139972377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_250
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 127
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c605f185f7cc66df0800000000000000
+      internalID: -187237487177936788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_251
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5c53bf79d6eb9b0800000000000000
+      internalID: -5062488431595764230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_252
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0961f005a743bd930800000000000000
+      internalID: 4168983579995346576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_253
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 127
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6db1272e3377840800000000000000
+      internalID: 5221699340629431970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_254
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 132
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11298e00ffc593620800000000000000
+      internalID: 2754334897415426577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_255
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 125
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c85de0329f34940800000000000000
+      internalID: 5279337117176401000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_256
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa7438d0fe0de360800000000000000
+      internalID: 7200427806817548974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_257
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 130
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650dad203ce44e2f0800000000000000
+      internalID: -944543422367477674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_258
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 126
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf69970d7b28ff70800000000000000
+      internalID: 9221168053039493086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_259
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 128
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2d3dd7e0f700f20800000000000000
+      internalID: 3386846619999916721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_260
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d036a8de7e5eff0800000000000000
+      internalID: -7344816956175061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_261
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 118
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d78c4a5e8ca590800000000000000
+      internalID: -7661592347581884794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_262
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 118
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23868c89cfa5c78f0800000000000000
+      internalID: -541457814249773006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_263
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 117
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c526b379b189eb350800000000000000
+      internalID: 6034427794991833692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_264
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 120
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aace96991822d340800000000000000
+      internalID: 4887012636016691881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_265
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac16e74a900d98700800000000000000
+      internalID: 543193969907884490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_266
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 118
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1577f9e643ff67e50800000000000000
+      internalID: 6806908487476410193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_267
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e51511c8de9c6d0800000000000000
+      internalID: -2969581293432381938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_268
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c0a89f7a22d8830800000000000000
+      internalID: 4074951342681623644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_269
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 121
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0994b1c383a23b0800000000000000
+      internalID: -5536550961091604277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_270
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 109
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5889106d514230330800000000000000
+      internalID: 3675821397067798661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_271
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 104
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9dfa4e48f4f72f0800000000000000
+      internalID: -972971562297730656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_272
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 106
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba5a6030cba45cc0800000000000000
+      internalID: -3723162149994210626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_273
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 109
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ce6e6e8354b1e70800000000000000
+      internalID: 9086932783844486220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_274
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 103
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15798217cdb57140800000000000000
+      internalID: 4716884847447602463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_275
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 108
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619d15c5af817f890800000000000000
+      internalID: -7424437997127214826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_276
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 111
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7c159c18911a860800000000000000
+      internalID: 7539335296413976556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_277
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 110
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b1d133671610e0800000000000000
+      internalID: -2299624844921032528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_278
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3497c412765e89b60800000000000000
+      internalID: 7753198989621360963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_279
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 107
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d30c21a38129bb0800000000000000
+      internalID: -4930852004315513556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_280
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 98
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a97e00aad003d50800000000000000
+      internalID: 6714882068220189330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_281
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 96
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd6d6d2a78a1c2c0800000000000000
+      internalID: -4413060917144752650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_282
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd53672466f9380800000000000000
+      internalID: -8962332297806881811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_283
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed83c121bc19a7b90800000000000000
+      internalID: -7243316749303793442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_284
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 99
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5bc7e00e80a6f70800000000000000
+      internalID: 9181160548756927964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_285
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 97
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fd6b940a0f7c6f0800000000000000
+      internalID: -664297848791703741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_286
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58423c72882573220800000000000000
+      internalID: 2465530065744766085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_287
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 91
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9697ec0a176d7d2c0800000000000000
+      internalID: -4406817926841206423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_288
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 90
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413d7ed50bd9bc980800000000000000
+      internalID: -8517540889425882348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_289
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 89
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9703fade4dfa0eaa0800000000000000
+      internalID: -6133709363423006599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_290
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 94
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4977c88b0e6a320800000000000000
+      internalID: 2568987720696698102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_291
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 95
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383e5ba5c031181a0800000000000000
+      internalID: -6809140217825074301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_292
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8965f08890d72e0800000000000000
+      internalID: -2126532969071470411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_293
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939dfdefa23f517a0800000000000000
+      internalID: -6406947528874403527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_294
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 90
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d821cf7cbf1434d0800000000000000
+      internalID: -3155862544422197031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_295
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 58
+        width: 9
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67272f3f145e09f0800000000000000
+      internalID: -500370015411296401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_296
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 83
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b159bf6249f9ef0800000000000000
+      internalID: -99197771628340426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Toque_Tumblers_297
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 79
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf3168fe301982f0800000000000000
+      internalID: -970226382080491603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9603debff9f4c6c46a2570389bcc8bc9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Toque_Tumblers_0: -6726061973292568754
+      Toque_Tumblers_1: -5334199122991040771
+      Toque_Tumblers_10: 4863986358995479070
+      Toque_Tumblers_100: -496104370420031156
+      Toque_Tumblers_101: 469129387395088253
+      Toque_Tumblers_102: -7502224890283686231
+      Toque_Tumblers_103: -5794778686536975902
+      Toque_Tumblers_104: 425035135732252600
+      Toque_Tumblers_105: 4483709300397815378
+      Toque_Tumblers_106: 679066423909472543
+      Toque_Tumblers_107: 3550467421757538751
+      Toque_Tumblers_108: -4828156200039925617
+      Toque_Tumblers_109: 3027373512072933407
+      Toque_Tumblers_11: -1982020602480058379
+      Toque_Tumblers_110: 4606584301810350447
+      Toque_Tumblers_111: -2377843097530302315
+      Toque_Tumblers_112: -7240998145490778475
+      Toque_Tumblers_113: -457162948122712411
+      Toque_Tumblers_114: -2726040673019615122
+      Toque_Tumblers_115: 2327198482548421627
+      Toque_Tumblers_116: 3172521216111556836
+      Toque_Tumblers_117: -7655437106761078070
+      Toque_Tumblers_118: 3344108847082395111
+      Toque_Tumblers_119: 7743616155472753686
+      Toque_Tumblers_12: 3738812181539378685
+      Toque_Tumblers_120: -5216438922624777266
+      Toque_Tumblers_121: -6723160754140646890
+      Toque_Tumblers_122: 2981453919275282494
+      Toque_Tumblers_123: 8774275207189218002
+      Toque_Tumblers_124: -4135832390850670633
+      Toque_Tumblers_125: 5536807463923472856
+      Toque_Tumblers_126: 8389729561428644245
+      Toque_Tumblers_127: -2735035119616410156
+      Toque_Tumblers_128: -6484975839506002765
+      Toque_Tumblers_129: -6880090170608245966
+      Toque_Tumblers_13: -8708931882226567998
+      Toque_Tumblers_130: 3148210947972777380
+      Toque_Tumblers_131: -1954302751513726100
+      Toque_Tumblers_132: -7977350511063772865
+      Toque_Tumblers_133: -110235992786347979
+      Toque_Tumblers_134: 4718155790857646753
+      Toque_Tumblers_135: -2309653870905575052
+      Toque_Tumblers_136: -3423525062760139686
+      Toque_Tumblers_137: 1449148418759768334
+      Toque_Tumblers_138: 5728671468299710724
+      Toque_Tumblers_139: -6649571675412768953
+      Toque_Tumblers_14: 1033980360633966298
+      Toque_Tumblers_140: 1472369211749171606
+      Toque_Tumblers_141: 7366459090199506240
+      Toque_Tumblers_142: 3725721604403059143
+      Toque_Tumblers_143: 7612079375899513376
+      Toque_Tumblers_144: 4165696864230866250
+      Toque_Tumblers_145: -6330541857722989582
+      Toque_Tumblers_146: 5967490995031240047
+      Toque_Tumblers_147: -5342135608659145785
+      Toque_Tumblers_148: 9184170188354491468
+      Toque_Tumblers_149: -7034819289652960445
+      Toque_Tumblers_15: -5897636796100311010
+      Toque_Tumblers_150: -1894638448218675737
+      Toque_Tumblers_151: -8704324100607517100
+      Toque_Tumblers_152: 3679293886549329646
+      Toque_Tumblers_153: 477801828441601372
+      Toque_Tumblers_154: 8270455068462724809
+      Toque_Tumblers_155: 6616122063921985590
+      Toque_Tumblers_156: 2785497798514637058
+      Toque_Tumblers_157: -4090032430931305480
+      Toque_Tumblers_158: -2948422203752264506
+      Toque_Tumblers_159: -4960071327808152913
+      Toque_Tumblers_16: -7948160620846257551
+      Toque_Tumblers_160: -4363464732872028006
+      Toque_Tumblers_161: 8231235363568136207
+      Toque_Tumblers_162: -2376963532017904669
+      Toque_Tumblers_163: -5962521270641955777
+      Toque_Tumblers_164: -3634133435110043803
+      Toque_Tumblers_165: -8207037865732949028
+      Toque_Tumblers_166: -2693331556391531422
+      Toque_Tumblers_167: 8182522147416925451
+      Toque_Tumblers_168: -6083297558940351738
+      Toque_Tumblers_169: 3770671496487791222
+      Toque_Tumblers_17: -7029499493453138158
+      Toque_Tumblers_170: 3019077809667568639
+      Toque_Tumblers_171: -6069410079290372353
+      Toque_Tumblers_172: -963963726873317328
+      Toque_Tumblers_173: -9109554469310727009
+      Toque_Tumblers_174: -5440267738853014234
+      Toque_Tumblers_175: -6859135194632453788
+      Toque_Tumblers_176: -8692092108444359016
+      Toque_Tumblers_177: 1048465011844746497
+      Toque_Tumblers_178: 2029693560270130086
+      Toque_Tumblers_179: 6157362351614754534
+      Toque_Tumblers_18: 4781067730541832727
+      Toque_Tumblers_180: 108227544074643320
+      Toque_Tumblers_181: -3268065570853658188
+      Toque_Tumblers_182: 8841133282461648386
+      Toque_Tumblers_183: -6396318051113874084
+      Toque_Tumblers_184: 3321910128754653475
+      Toque_Tumblers_185: -7028801226445605343
+      Toque_Tumblers_186: -3833563410299081695
+      Toque_Tumblers_187: 1640398427338769519
+      Toque_Tumblers_188: 9183820465368580460
+      Toque_Tumblers_189: -3830723007459937401
+      Toque_Tumblers_19: 5715468209314236906
+      Toque_Tumblers_190: 2973857097153384165
+      Toque_Tumblers_191: 5335088607000422693
+      Toque_Tumblers_192: -320210839283448713
+      Toque_Tumblers_193: -2356602242953345655
+      Toque_Tumblers_194: -1626082296780503409
+      Toque_Tumblers_195: -8470808101641479684
+      Toque_Tumblers_196: -9085301776139588819
+      Toque_Tumblers_197: 8732630889615954536
+      Toque_Tumblers_198: 5364988699341580386
+      Toque_Tumblers_199: -8856344753098903721
+      Toque_Tumblers_2: 7149729288937998131
+      Toque_Tumblers_20: -8636424381857632984
+      Toque_Tumblers_200: 7774225951606402589
+      Toque_Tumblers_201: -6726655218138565568
+      Toque_Tumblers_202: -4780655802659198182
+      Toque_Tumblers_203: -6896517040529379266
+      Toque_Tumblers_204: -540839698531013785
+      Toque_Tumblers_205: -3776973426182516835
+      Toque_Tumblers_206: -8837393169186220489
+      Toque_Tumblers_207: 696591426607962741
+      Toque_Tumblers_208: 6385743671680947659
+      Toque_Tumblers_209: 5068150211671781121
+      Toque_Tumblers_21: 47768058502057374
+      Toque_Tumblers_210: 3926875465388747399
+      Toque_Tumblers_211: 7856485661758236437
+      Toque_Tumblers_212: -8280799016904694777
+      Toque_Tumblers_213: 387523607518501221
+      Toque_Tumblers_214: 664795619254250999
+      Toque_Tumblers_215: 8200497469237643567
+      Toque_Tumblers_216: 5267832963094171030
+      Toque_Tumblers_217: 4455816939861845080
+      Toque_Tumblers_218: 3090445869661261908
+      Toque_Tumblers_219: 8483295858930631925
+      Toque_Tumblers_22: 260150456544406811
+      Toque_Tumblers_220: -8820023057003798654
+      Toque_Tumblers_221: -2556805443837110559
+      Toque_Tumblers_222: 1507678034054901677
+      Toque_Tumblers_223: 8154347629514009777
+      Toque_Tumblers_224: 635171505918819374
+      Toque_Tumblers_225: -8062878325246587273
+      Toque_Tumblers_226: -3584639292809361868
+      Toque_Tumblers_227: 7383140226671171091
+      Toque_Tumblers_228: -5210467812650105845
+      Toque_Tumblers_229: -5981630797160223721
+      Toque_Tumblers_23: 5502209391138924707
+      Toque_Tumblers_230: 3627158365136870117
+      Toque_Tumblers_231: -9191431461581820800
+      Toque_Tumblers_232: -907993461277855057
+      Toque_Tumblers_233: 5856444134584806516
+      Toque_Tumblers_234: -8142277286113167628
+      Toque_Tumblers_235: 5375182892039014368
+      Toque_Tumblers_236: -8345589007062168248
+      Toque_Tumblers_237: -4921527132582061548
+      Toque_Tumblers_238: -5892725519438708130
+      Toque_Tumblers_239: 6640385637733244985
+      Toque_Tumblers_24: 7177823823598569387
+      Toque_Tumblers_240: -3955517342402781321
+      Toque_Tumblers_241: -1855237429002698876
+      Toque_Tumblers_242: -2761660417673854201
+      Toque_Tumblers_243: 632405230378975050
+      Toque_Tumblers_244: -1150746766358162521
+      Toque_Tumblers_245: -7660524024330220840
+      Toque_Tumblers_246: 6560758162302399224
+      Toque_Tumblers_247: 4616093007644506304
+      Toque_Tumblers_248: -8452067275577052347
+      Toque_Tumblers_249: 146971047139972377
+      Toque_Tumblers_25: 6490555285107591369
+      Toque_Tumblers_250: -187237487177936788
+      Toque_Tumblers_251: -5062488431595764230
+      Toque_Tumblers_252: 4168983579995346576
+      Toque_Tumblers_253: 5221699340629431970
+      Toque_Tumblers_254: 2754334897415426577
+      Toque_Tumblers_255: 5279337117176401000
+      Toque_Tumblers_256: 7200427806817548974
+      Toque_Tumblers_257: -944543422367477674
+      Toque_Tumblers_258: 9221168053039493086
+      Toque_Tumblers_259: 3386846619999916721
+      Toque_Tumblers_26: -885414562159910919
+      Toque_Tumblers_260: -7344816956175061
+      Toque_Tumblers_261: -7661592347581884794
+      Toque_Tumblers_262: -541457814249773006
+      Toque_Tumblers_263: 6034427794991833692
+      Toque_Tumblers_264: 4887012636016691881
+      Toque_Tumblers_265: 543193969907884490
+      Toque_Tumblers_266: 6806908487476410193
+      Toque_Tumblers_267: -2969581293432381938
+      Toque_Tumblers_268: 4074951342681623644
+      Toque_Tumblers_269: -5536550961091604277
+      Toque_Tumblers_27: 8475753719372336882
+      Toque_Tumblers_270: 3675821397067798661
+      Toque_Tumblers_271: -972971562297730656
+      Toque_Tumblers_272: -3723162149994210626
+      Toque_Tumblers_273: 9086932783844486220
+      Toque_Tumblers_274: 4716884847447602463
+      Toque_Tumblers_275: -7424437997127214826
+      Toque_Tumblers_276: 7539335296413976556
+      Toque_Tumblers_277: -2299624844921032528
+      Toque_Tumblers_278: 7753198989621360963
+      Toque_Tumblers_279: -4930852004315513556
+      Toque_Tumblers_28: 3408689473864936630
+      Toque_Tumblers_280: 6714882068220189330
+      Toque_Tumblers_281: -4413060917144752650
+      Toque_Tumblers_282: -8962332297806881811
+      Toque_Tumblers_283: -7243316749303793442
+      Toque_Tumblers_284: 9181160548756927964
+      Toque_Tumblers_285: -664297848791703741
+      Toque_Tumblers_286: 2465530065744766085
+      Toque_Tumblers_287: -4406817926841206423
+      Toque_Tumblers_288: -8517540889425882348
+      Toque_Tumblers_289: -6133709363423006599
+      Toque_Tumblers_29: 5683654843987289263
+      Toque_Tumblers_290: 2568987720696698102
+      Toque_Tumblers_291: -6809140217825074301
+      Toque_Tumblers_292: -2126532969071470411
+      Toque_Tumblers_293: -6406947528874403527
+      Toque_Tumblers_294: -3155862544422197031
+      Toque_Tumblers_295: -500370015411296401
+      Toque_Tumblers_296: -99197771628340426
+      Toque_Tumblers_297: -970226382080491603
+      Toque_Tumblers_3: -6851460486740367456
+      Toque_Tumblers_30: 1734297512148665038
+      Toque_Tumblers_31: -2656392241994254381
+      Toque_Tumblers_32: 1713787701817916561
+      Toque_Tumblers_33: 9046354513038864381
+      Toque_Tumblers_34: -3333608820444085041
+      Toque_Tumblers_35: -8575239327659041267
+      Toque_Tumblers_36: 3139126978486910387
+      Toque_Tumblers_37: 6621590288249505081
+      Toque_Tumblers_38: 6281036835142125065
+      Toque_Tumblers_39: -3187802779842156655
+      Toque_Tumblers_4: 6719360752465495063
+      Toque_Tumblers_40: -8650534220487181224
+      Toque_Tumblers_41: -2596094957453932881
+      Toque_Tumblers_42: 901872075479508638
+      Toque_Tumblers_43: 1316404720836486821
+      Toque_Tumblers_44: -1406810549476628120
+      Toque_Tumblers_45: -3020459904303770288
+      Toque_Tumblers_46: -6201356220302570647
+      Toque_Tumblers_47: 785559205108471643
+      Toque_Tumblers_48: -814768685038223023
+      Toque_Tumblers_49: 3375712330809267371
+      Toque_Tumblers_5: -5185176133843661477
+      Toque_Tumblers_50: -3506115876805294782
+      Toque_Tumblers_51: 5350305246677719579
+      Toque_Tumblers_52: -4255440862587697320
+      Toque_Tumblers_53: -3531740963616693837
+      Toque_Tumblers_54: -6578556643350078002
+      Toque_Tumblers_55: 3311689474139536722
+      Toque_Tumblers_56: -309930932120157254
+      Toque_Tumblers_57: 6457596917183354180
+      Toque_Tumblers_58: 4953070553237563664
+      Toque_Tumblers_59: 1968063405366443196
+      Toque_Tumblers_6: 1277426464798955185
+      Toque_Tumblers_60: 6151407665416303459
+      Toque_Tumblers_61: -4091715354446888162
+      Toque_Tumblers_62: -3293767839087573579
+      Toque_Tumblers_63: -6586018289704226659
+      Toque_Tumblers_64: -5568442285018107268
+      Toque_Tumblers_65: 3831029419763114133
+      Toque_Tumblers_66: 6082915278087941651
+      Toque_Tumblers_67: -1110054035640369436
+      Toque_Tumblers_68: 6510521691315309780
+      Toque_Tumblers_69: -5669276568240952680
+      Toque_Tumblers_7: 5555782656924954537
+      Toque_Tumblers_70: -7105644113652806836
+      Toque_Tumblers_71: 6834898122870547652
+      Toque_Tumblers_72: 8234495986294632625
+      Toque_Tumblers_73: 5670949611755111807
+      Toque_Tumblers_74: 6324647802722465073
+      Toque_Tumblers_75: 4747941783194950270
+      Toque_Tumblers_76: -5539498658864046877
+      Toque_Tumblers_77: 4738753725660487177
+      Toque_Tumblers_78: -6930392500505417591
+      Toque_Tumblers_79: 8647060908473685941
+      Toque_Tumblers_8: -2927462100545020907
+      Toque_Tumblers_80: -2403097954281400316
+      Toque_Tumblers_81: -3298332777859544587
+      Toque_Tumblers_82: -2623649039474145369
+      Toque_Tumblers_83: -7036118843181597959
+      Toque_Tumblers_84: -2273031945841762788
+      Toque_Tumblers_85: 3086144366033501575
+      Toque_Tumblers_86: 8375057618329452172
+      Toque_Tumblers_87: -3482498212110323706
+      Toque_Tumblers_88: -8538323405058385970
+      Toque_Tumblers_89: -8041565956260387540
+      Toque_Tumblers_9: 2319156450287197209
+      Toque_Tumblers_90: 6614687653157205709
+      Toque_Tumblers_91: 2951541515572253604
+      Toque_Tumblers_92: -557512688783119097
+      Toque_Tumblers_93: -7315297742592942008
+      Toque_Tumblers_94: 2760916854889653322
+      Toque_Tumblers_95: -5845969815320113011
+      Toque_Tumblers_96: 7049167693559237794
+      Toque_Tumblers_97: -2089644034830020466
+      Toque_Tumblers_98: -3758504434010704619
+      Toque_Tumblers_99: -5814894485881978927
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

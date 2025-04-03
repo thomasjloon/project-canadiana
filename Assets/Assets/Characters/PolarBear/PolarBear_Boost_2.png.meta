@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6cd0384fcff803f488a4add1b9cf5015
+guid: 397261b647e054940942edc5cad39452
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5776421600631150107
-    second: Untitled_Artwork-3_0
+      213: -3225781068913009982
+    second: PolarBear_Boost_2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Moose_SpeedBoost_2
+      name: PolarBear_Boost_2_0
       rect:
         serializedVersion: 2
-        x: 670
-        y: 297
-        width: 1529
-        height: 1372
+        x: 653
+        y: 185
+        width: 1852
+        height: 1774
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e9ac75b82706dfa0800000000000000
-      internalID: -5776421600631150107
+      spriteID: 2ca92407539bb33d0800000000000000
+      internalID: -3225781068913009982
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 29cb89ff62618d849a7dca907680b405
+    spriteID: d6a9f75e42e54ee4196a085fc09fa5e3
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Moose_SpeedBoost_2: -5776421600631150107
+      PolarBear_Boost_2_0: -3225781068913009982
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

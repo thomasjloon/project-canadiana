@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 6cd0384fcff803f488a4add1b9cf5015
+guid: 76aaa27699c4ade4fbb622aad330a3b2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5776421600631150107
-    second: Untitled_Artwork-3_0
+      213: -741043246988658737
+    second: Fox_Boost_2_0
+  - first:
+      213: -135380327001259918
+    second: Fox_Boost_2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Moose_SpeedBoost_2
+      name: Fox_Boost_2_0
       rect:
         serializedVersion: 2
-        x: 670
-        y: 297
-        width: 1529
-        height: 1372
+        x: 556
+        y: 212
+        width: 2107
+        height: 1722
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e9ac75b82706dfa0800000000000000
-      internalID: -5776421600631150107
+      spriteID: fc7f904d71947b5f0800000000000000
+      internalID: -741043246988658737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fox_Boost_2_1
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 168
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27083835f480f1ef0800000000000000
+      internalID: -135380327001259918
       vertices: []
       indices: 
       edges: []
@@ -125,7 +150,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 29cb89ff62618d849a7dca907680b405
+    spriteID: 3aa68b0fd2f898945bab4c5f8d5d36e1
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Moose_SpeedBoost_2: -5776421600631150107
+      Fox_Boost_2_0: -741043246988658737
+      Fox_Boost_2_1: -135380327001259918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

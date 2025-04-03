@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6cd0384fcff803f488a4add1b9cf5015
+guid: 170ed455c02b5264baa28775e2f2e592
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5776421600631150107
-    second: Untitled_Artwork-3_0
+      213: 1530324855612412514
+    second: tallest-mountain-from-the-bottom_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -72,7 +72,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Moose_SpeedBoost_2
+      name: tallest-mountain-from-the-bottom_0
       rect:
         serializedVersion: 2
-        x: 670
-        y: 297
-        width: 1529
-        height: 1372
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 788
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e9ac75b82706dfa0800000000000000
-      internalID: -5776421600631150107
+      spriteID: 2629ab1295ecc3510800000000000000
+      internalID: 1530324855612412514
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 29cb89ff62618d849a7dca907680b405
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Moose_SpeedBoost_2: -5776421600631150107
+      tallest-mountain-from-the-bottom_0: 1530324855612412514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

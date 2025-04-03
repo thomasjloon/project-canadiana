@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 6cd0384fcff803f488a4add1b9cf5015
+guid: 668f564164108bf4a87460ee1c38b366
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5776421600631150107
-    second: Untitled_Artwork-3_0
+      213: -3342839029305718241
+    second: Goose_Idle_0
+  - first:
+      213: 4960041038142306632
+    second: Goose_Idle_1
+  - first:
+      213: 1515065451784303887
+    second: Goose_Idle_2
+  - first:
+      213: -4342420105502049681
+    second: Goose_Idle_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Moose_SpeedBoost_2
+      name: Goose_Idle_0
       rect:
         serializedVersion: 2
-        x: 670
-        y: 297
-        width: 1529
-        height: 1372
+        x: 2204
+        y: 1979
+        width: 23
+        height: 12
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5e9ac75b82706dfa0800000000000000
-      internalID: -5776421600631150107
+      spriteID: f1acbec2d99db91d0800000000000000
+      internalID: -3342839029305718241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 252
+        width: 1318
+        height: 1626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849f4d57b0b95d440800000000000000
+      internalID: 4960041038142306632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1335
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05f1115008960510800000000000000
+      internalID: 1515065451784303887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goose_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 985
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a3902dbef9cb3c0800000000000000
+      internalID: -4342420105502049681
       vertices: []
       indices: 
       edges: []
@@ -125,7 +200,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 29cb89ff62618d849a7dca907680b405
+    spriteID: f50a50d9dbee0294492fb441cc668ecc
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Moose_SpeedBoost_2: -5776421600631150107
+      Goose_Idle_0: -3342839029305718241
+      Goose_Idle_1: 4960041038142306632
+      Goose_Idle_2: 1515065451784303887
+      Goose_Idle_3: -4342420105502049681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
